@@ -1,0 +1,4 @@
+In lesson 4 you will go over :
+- basic Arithmatic
+- Ternary Operators
+- Pre and Post INcrement and Decrement 
